@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For Speeduino
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Speeduino	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+inputPin	KEYWORD2
+inputPullUpPin	KEYWORD2
+outputPin	KEYWORD2
+digitalLow	KEYWORD2
+digitalHigh	KEYWORD2
+isHigh	KEYWORD2
+isLow	KEYWORD2
+digitalState	KEYWORD2
