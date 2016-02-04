@@ -4,7 +4,7 @@ This simple project aims to increase the speed of common functions used when pro
 
 ## How To Install
 
-Speeduino can be installed like any other Arduino libary, just download this GitHub project and add it to your `/libraries/` folder inside your Arduino sketches folder. Once added, simply add `#include <Speeduino.h>` in the beggining of your code and you're ready to go!
+Speeduino can be installed like any other Arduino libary, just download this GitHub project and add the Speeduino folder to your `/libraries/` directory inside your Arduino sketches folder. Once added, simply add `#include <Speeduino.h>` in the beggining of your code and you're ready to go!
 
 ## Speeduino Functions
 
